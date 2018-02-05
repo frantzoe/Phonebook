@@ -1,0 +1,10 @@
+com\frantzoe\phonebook\contacts\ContactController.class
+com\frantzoe\phonebook\users\UserRepository.class
+com\frantzoe\phonebook\relations\Relation.class
+com\frantzoe\phonebook\contacts\ContactRepository.class
+com\frantzoe\phonebook\relations\RelationRepository.class
+com\frantzoe\phonebook\users\UserController.class
+com\frantzoe\phonebook\users\User.class
+com\frantzoe\phonebook\contacts\Contact.class
+com\frantzoe\phonebook\relations\RelationController.class
+com\frantzoe\phonebook\Application.class
