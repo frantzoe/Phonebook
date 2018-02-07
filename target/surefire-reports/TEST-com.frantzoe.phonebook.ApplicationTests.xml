@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.frantzoe.phonebook.ApplicationTests" time="0.032" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.frantzoe.phonebook.ApplicationTests" time="0.035" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin"/>
@@ -26,26 +26,25 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin\..\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:\Users\Lincoln\.m2\wrapper\dists\apache-maven-3.5.2-bin\28qa8v9e2mq69covern8vmdkj0\apache-maven-3.5.2\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NodeJS\;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin;C:\Program Files\Gradle\gradle-4.5\bin;C:\Program Files\Spring\spring-1.5.10.RELEASE\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\cURL\curl-7.58.0\src;C:\Users\Lincoln\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Lincoln\AppData\Local\Programs\Python\Python36\;C:\Users\Lincoln\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft\Visual Studio Code\bin;C:\Users\Lincoln\AppData\Roaming\npm;;."/>
-    <property name="maven.conf" value="C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin\../conf"/>
+    <property name="maven.conf" value="C:\Users\Lincoln\.m2\wrapper\dists\apache-maven-3.5.2-bin\28qa8v9e2mq69covern8vmdkj0\apache-maven-3.5.2/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin\..\lib\jansi-native"/>
     <property name="user.home" value="C:\Users\Lincoln"/>
     <property name="user.timezone" value="Europe/Paris"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="user.name" value="Lincoln"/>
-    <property name="java.class.path" value="C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\Users\Lincoln\WorkSpace\Projects\Spring\Projects\Phonebook\.mvn\wrapper\maven-wrapper.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_152\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package -e"/>
+    <property name="sun.java.command" value="org.apache.maven.wrapper.MavenWrapperMain clean package"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -55,7 +54,7 @@
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes"/>
     <property name="sun.stderr.encoding" value="cp437"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Program Files\Apache\Maven\apache-maven-3.5.2\bin\.."/>
+    <property name="maven.home" value="C:\Users\Lincoln\.m2\wrapper\dists\apache-maven-3.5.2-bin\28qa8v9e2mq69covern8vmdkj0\apache-maven-3.5.2"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -64,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="contextLoads" classname="com.frantzoe.phonebook.ApplicationTests" time="0.032"/>
+  <testcase name="contextLoads" classname="com.frantzoe.phonebook.ApplicationTests" time="0.035"/>
 </testsuite>
